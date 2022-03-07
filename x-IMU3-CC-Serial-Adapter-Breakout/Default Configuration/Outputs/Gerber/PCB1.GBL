@@ -1,0 +1,25 @@
+G04*
+G04 #@! TF.GenerationSoftware,Altium Limited,CircuitStudio,1.5.2 (30)*
+G04*
+G04 Layer_Physical_Order=2*
+G04 Layer_Color=12500520*
+%FSLAX25Y25*%
+%MOIN*%
+G70*
+G01*
+G75*
+%ADD14C,0.07400*%
+D14*
+X404134Y405512D02*
+D03*
+X414134D02*
+D03*
+X424134D02*
+D03*
+X434134D02*
+D03*
+X444134D02*
+D03*
+X454134D02*
+D03*
+M02*
